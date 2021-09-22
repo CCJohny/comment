@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on 你好，陌生人</title>
+    <link>http://ccj.pages.dev/about/</link>
+    <description>Recent content in About on 你好，陌生人</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2002 00:00:00 +0000</lastBuildDate><atom:link href="http://ccj.pages.dev/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

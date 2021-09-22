@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://ccj.pages.dev/posts/</loc>
+    <lastmod>2021-05-16T14:16:23+00:00</lastmod>
+  </url><url>
+    <loc>http://ccj.pages.dev/tags/1/</loc>
+    <lastmod>2021-05-16T14:16:23+00:00</lastmod>
+  </url><url>
+    <loc>http://ccj.pages.dev/tags/2/</loc>
+    <lastmod>2021-05-16T14:16:23+00:00</lastmod>
+  </url><url>
+    <loc>http://ccj.pages.dev/posts/</loc>
+    <lastmod>2021-05-16T14:16:23+00:00</lastmod>
+  </url><url>
+    <loc>http://ccj.pages.dev/tags/</loc>
+    <lastmod>2021-05-16T14:16:23+00:00</lastmod>
+  </url><url>
+    <loc>http://ccj.pages.dev/</loc>
+    <lastmod>2021-05-16T14:16:23+00:00</lastmod>
+  </url><url>
+    <loc>http://ccj.pages.dev/about/</loc>
+    <lastmod>2002-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ccj.pages.dev/categories/</loc>
+  </url>
+</urlset>
