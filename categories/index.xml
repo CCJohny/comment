@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 你好，陌生人</title>
-    <link>http://ccj.pages.dev/categories/</link>
+    <link>https://ccjohny.github.io/comment/categories/</link>
     <description>Recent content in Categories on 你好，陌生人</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://ccj.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ccjohny.github.io/comment/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
